@@ -13,13 +13,16 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package":"com.kmi.auro"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+        
+      },
+      "package":"com.kmi.auro"
     },
     "web": {
       "bundler": "metro",
